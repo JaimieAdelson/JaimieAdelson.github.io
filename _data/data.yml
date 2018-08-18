@@ -111,12 +111,19 @@ experiences:
       time: 2008 - 2014
       company: Stanford University, Stanford, California, USA
       details: |
-       Topic: Brain plasticity in development & disease
+        Topic: Brain plasticity in development & disease
         Output & Skills: Use of Matlab, Prism and other data analysis packages; collaborative working group and
         partnership with external researchers culminating in four publications; recipient of 3 graduate research fellowships; supervisor of multi-year
         undergraduate project; co-instructor for neuroscience courses for 6 quarters
 
-
+    - role: Training & Outreach Fellow
+      time: 2007 - 2008
+      company: Gobabeb Research & Training Centre, Namib-Naukluft Park, Namibia
+      details: |
+       Topic: Science education & research at environmental non-profit
+       Output & Skills: Project manager for 11 interns (from Namibia, South Africa, five European countries);
+       tailored diverse education programs for 1,000+ visitors ranging from Kindergarten to Master’s level
+        
 projects:
     title: Projects
     intro: >
