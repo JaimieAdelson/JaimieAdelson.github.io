@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -56,14 +56,13 @@ education:
       university: Stanford University
       time: 2008 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Topic: Brain plasticity in development & disease
+        Output & Skills: Use of Matlab, Prism and other data analysis packages; collaborative working group and
+        partnership with external researchers culminating in four publications; supervisor of multi-year
+        undergraduate project; co-instructor for neuroscience courses for 6 quarters
 
-          - Bullet point
-          - Bullet point 
+          - 4 peer-reviewed publications
+          - Research funded by the National Science Foundation, Department of De 
 
     - degree: MSc in Public Health For Development
       university: London School of Hygiene & Tropical Medicine
