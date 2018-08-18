@@ -33,7 +33,7 @@ sidebar:
         
     #interests:
      # - item: 
-        link:
+        #link:
 
     
 
@@ -75,7 +75,7 @@ education:
 experiences:
     - role: Research Investigator
       time: June 2017 - August 2017
-      company: Startup Hubs, San Francisco
+      company: Washington State Department of Social & Health Services, Olympia, Washington, USA
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -90,9 +90,9 @@ experiences:
           - Bullet point
           - Bullet point 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Global Health Intern
+      time: February 2017 - May 2017
+      company: Unite For Sight, New Haven, Connecticut, USA
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -105,7 +105,7 @@ experiences:
 
     - role: Graduate Researcher & Course Instructor
       time: 2008 - 2014
-      company: Stanford University
+      company: Stanford University, Stanford, California, USA
       details: |
        Topic: Brain plasticity in development & disease
         Output & Skills: Use of Matlab, Prism and other data analysis packages; collaborative working group and
