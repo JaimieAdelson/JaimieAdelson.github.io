@@ -128,11 +128,11 @@ experiences:
 publications:
     title: Publications
     intro: |
-      I am an author on 9 peer-reviewed publications (listed below).  I am also an author on a pending policy report at the Washington State Department of Social and Health Services.  
+      I am an author on 9 peer-reviewed publications (listed below), and a pending policy report at the Washington State Department of Social and Health Services.  
 
     papers:
       - title: Assessing the Social Determinants of Healthcare Costs for Medicaid-Enrolled Adolescents in Washington State Using Administrative Data
         authors: Deleena Patton, Qinghua Liu, Jaimie Adelson, Barbara Lucenko
-        link: "https://www.ncbi.nlm.nih.gov/pubmed/29793975"
+        link: https://www.ncbi.nlm.nih.gov/pubmed/29793975
         tagline: "xxx"
 
