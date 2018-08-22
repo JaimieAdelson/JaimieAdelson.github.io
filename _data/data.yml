@@ -167,3 +167,13 @@ publications:
       - title: Absence of Perforin Expression Confers Axonal Protection Despite Demyelination
         authors: Charles Howe, Jaimie Adelson, Moses Rodriguez
         conference: Neurobiology of Disease, 2007
+
+talks:
+    title: Invited Talks
+    intro: |
+      I am super awesome
+
+    talks:
+      - title: How to be awesome
+        location: 2019 ya'll
+        description: like it says on the tin
