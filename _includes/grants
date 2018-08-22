@@ -1,0 +1,31 @@
+{% assign grants = site.data.data.grants %}
+{% if grants %}
+<section class="section grants-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-hands-helping fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ grants.title }}
+  </h2>
+
+  {% if grants.intro %}
+  <div class="intro">
+    {{ grants.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for grant in grants.grants %}
+  <div class="item">
+    <div class="publication-title">{{ grant.title }}</div>  
+    <div class="publication-authors">{{ grant.organization }}</div>
+    {% if talk.description %}
+    <div class="publication-conference">{{ grant.description }}</div>
+    {% endif %}
+  </div><!--//item-->
+    <br>&nbsp
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
