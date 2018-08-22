@@ -171,19 +171,25 @@ publications:
 grants:
     title: Grants and Fellowships
     intro: |
-      I am super awesome
+      I have 9 successful grant and fellowship applications, totaling approximately $600,000.
       
     grants:
-      - title: How to be awesome
-        organization: 2019 ya'll
-        description: like it says on the tin
+      - title: F-32 Post-Doctoral NRSA Fellowship
+        organization: U.S. National Institute of Health
+        description: 3 years of post-doctoral research funding
+        
+      - title: Student Research Grant
+        organization: U.S. Fulbright Association
+        description: 10-month research fellowship in Indonesia
         
 talks:
     title: Invited Talks
     intro: |
-      I am super awesome
+      I have given **10 invited talks** in the U.S. and internationally, including the following:
 
     talks:
-      - title: How to be awesome
-        location: 2019 ya'll
-        description: like it says on the tin
+      - title: Alumni Speaker
+        location: Fulbright East Asia Pacific Orientation, Washington, DC, 2016
+        description: 
+        
+        
