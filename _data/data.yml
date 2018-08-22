@@ -169,7 +169,7 @@ publications:
         conference: Neurobiology of Disease, 2007
 
 grants:
-    title: Grants and Fellowships
+    title: Grants, Fellowships, and Honors
     intro: |
       I have 9 successful grant and fellowship applications, totaling approximately $600,000.
       
@@ -201,6 +201,14 @@ grants:
       - title: Sammy Kuo Award (Finalist)
         organization: Stanford University, 2012
         description: Finalist for best neuroscience graduate student publication in 2011-12
+ 
+       - title: Grinnell Corp Fellowship
+        organization: Grinnell College, 2007
+        description: 1 year fellowship to work at Gobabeb Research & Training Centre in Namibia
+
+       - title: Phi Beta Kappa
+        organization: Grinnell College, 2007
+        description: Merit-based induction of ~10% of matriculating liberal arts and sciences undergraduates
         
 talks:
     title: Invited Talks
