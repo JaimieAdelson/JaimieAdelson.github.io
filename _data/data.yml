@@ -132,7 +132,7 @@ publications:
 
     papers:
       - title: Assessing the Social Determinants of Healthcare Costs for Medicaid-Enrolled Adolescents in Washington State Using Administrative Data
-        authors: Deleena Patton, Qinghua Liu, Jaimie Adelson, Barbara Lucenko
+        authors: Deleena Patton, Qinghua Liu, <b>Jaimie Adelson</b>, Barbara Lucenko
         conference: Health Services Research, 2018
 
       - title: Preferential Targeting of Lateral Entorhinal Inputs onto Newly Integrated Granule Cells
