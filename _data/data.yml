@@ -168,6 +168,16 @@ publications:
         authors: Charles Howe, Jaimie Adelson, Moses Rodriguez
         conference: Neurobiology of Disease, 2007
 
+grants:
+    title: Grants and Fellowships
+    intro: |
+      I am super awesome
+      
+    grants:
+      - title: How to be awesome
+        organization: 2019 ya'll
+        description: like it says on the tin
+        
 talks:
     title: Invited Talks
     intro: |
