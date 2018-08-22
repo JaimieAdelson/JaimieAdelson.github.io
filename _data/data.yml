@@ -175,12 +175,32 @@ grants:
       
     grants:
       - title: F-32 Post-Doctoral NRSA Fellowship
-        organization: U.S. National Institute of Health
+        organization: U.S. National Institute of Health, 2016
         description: 3 years of post-doctoral research funding
         
       - title: Student Research Grant
-        organization: U.S. Fulbright Association
+        organization: U.S. Fulbright Association, 2014
         description: 10-month research fellowship in Indonesia
+
+      - title: Critical Language Enhancement Award
+        organization: U.S. Fulbright Association, 2014
+        description: 3-month one-on-one language course in Indonesia for a total of 240 hours
+
+      - title: National Defense Science and Engineering Grant
+        organization: U.S. Department of Defense, 2012
+        description: 3 years of graduate research funding 
+
+      - title: Graduate Research Fellowship
+        organization: U.S. National Science Foundation, 2012
+        description: 3 years of graduate research funding 
+
+      - title: BioX Graduate Fellowship
+        organization: Stanford University, 2012
+        description: 3 years of graduate research funding 
+
+      - title: Sammy Kuo Award (Finalist)
+        organization: Stanford University, 2012
+        description: Finalist for best neuroscience graduate student publication in 2011-12
         
 talks:
     title: Invited Talks
