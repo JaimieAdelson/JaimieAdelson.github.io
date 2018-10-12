@@ -135,11 +135,9 @@ experiences:
 #projects:
 #    title: Projects
 #    intro: >
-#      You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
 #    assignments:
-#      - title: Velocity
+#      - title: Health costs associated with early life adversity
 #        link: "#hook"
 #        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
@@ -150,7 +148,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      I am an author on 9 peer-reviewed publications and two research policy briefs (listed below with links), and have two manuscripts in progress.
+      I am an author on 9 peer-reviewed publications and two research policy briefs (title links to description), and have two manuscripts in progress.
 
     papers:
       - title: Childhood Adversity and Behavioral Health Costs for Adolescents in Washington State. 
