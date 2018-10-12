@@ -276,9 +276,12 @@ skills:
       - name: Personnel supervision
         level: 85%
 
-      #- name: Research
-       # level: 99%
+      - name: Research
+        level: 99%
        
+      - name: PowerPoint creation and presentation
+        level: 98%    
+        
 talks:
     title: Invited Talks
     intro: |
