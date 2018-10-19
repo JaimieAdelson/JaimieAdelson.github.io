@@ -257,16 +257,16 @@ skills:
 
     toolset:
       - name: Stata
-        level: 85%
+        level: 82%
 
       - name: Data analysis
-        level: 95%
-
-      - name: Adobe Illustrator
         level: 90%
 
+      - name: Adobe Illustrator
+        level: 80%
+
       - name: Adobe InDesign
-        level: 85%
+        level: 80%
 
       - name: Grant writing
         level: 95%
