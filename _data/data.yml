@@ -7,13 +7,12 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Jaimie Adelson, PhD
+    name: Jaimie Adelson, MSc, PhD
     tagline: Global Public Health
     avatar: Professional1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jaimie.adelson@gmail.com
-    phone: +44 7454 778779
     website:  #do not add http://
     linkedin: jaimie-d-adelson
     github: JaimieAdelson
