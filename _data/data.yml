@@ -249,33 +249,33 @@ grants:
         organization: Grinnell College, 2007
         description: Merit-based induction of ~10% of matriculating liberal arts and sciences undergraduates
 
-skills:
-    title: Skills &amp; Proficiency
+#skills:
+ #   title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Stata
-        level: 82%
+  #  toolset:
+   #   - name: Stata
+    #    level: 82%
 
-      - name: Data analysis
-        level: 90%
+     # - name: Data analysis
+      #  level: 90%
 
-      - name: Adobe Illustrator
-        level: 80%
+     # - name: Adobe Illustrator
+      #  level: 80%
 
-      - name: Adobe InDesign
-        level: 80%
+     # - name: Adobe InDesign
+      #  level: 80%
 
-      - name: Grant writing
-        level: 95%
+     # - name: Grant writing
+      #  level: 95%
 
-      - name: Personnel supervision
-        level: 85%
+  #    - name: Personnel supervision
+   #     level: 85%
 
-      - name: Research
-        level: 99%
+    #  - name: Research
+     #   level: 99%
        
-      - name: PowerPoint creation and presentation
-        level: 98%    
+     # - name: PowerPoint creation and presentation
+      #  level: 98%    
         
 talks:
     title: Invited Talks
