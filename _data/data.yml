@@ -39,6 +39,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
+      I am a researcher at the Institute for Health Metrics and Evaluation in Seattle, Washington. 
+      
       I have a multidisciplinary background in public health and biomedical research living in the Seattle area.  My work has included a Fulbright Fellowship in Indonesia, a non-profit teaching and outreach position in Namibia,
       and positions in the U.S. non-profit and government sectors. My skills include research design, data analysis, grant and report
       writing, curriculum development, project supervision, and public speaking to diverse audiences.
@@ -73,6 +75,14 @@ education:
    
    
 experiences:
+    - role: Researcher
+      time: Jan 2019 - present 
+      company: Institute for Health Metrics and Evaluation, Seattle, Washington
+      details: |
+        Topic: Global Burden of Disease study
+        
+        Output & Skills: I am responsible for modeling the global burden of visual impairments and chronic respiratory diseases.
+        
     - role: Research Investigator
       time: 2017 
       company: Washington State Department of Social and Health Services, Olympia, Washington
