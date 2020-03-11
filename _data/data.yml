@@ -39,9 +39,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a researcher at the Institute for Health Metrics and Evaluation in Seattle, Washington. 
+      I am a researcher at the Institute for Health Metrics and Evaluation in Seattle, Washington where I estimate the burden of vision loss, dementia, and Parkinson's disease for the Global Burden of Disease Study. 
       
-      I have a multidisciplinary background in public health and biomedical research living in the Seattle area.  My work has included a Fulbright Fellowship in Indonesia, a non-profit teaching and outreach position in Namibia,
+      I have a multidisciplinary background in public health and biomedical research.  My work has included a Fulbright Fellowship in Indonesia, a non-profit teaching and outreach position in Namibia,
       and positions in the U.S. non-profit and government sectors. My skills include research design, data analysis, grant and report
       writing, curriculum development, project supervision, and public speaking to diverse audiences.
 
@@ -158,7 +158,12 @@ publications:
       I am an author on nine peer-reviewed publications and two research policy briefs (title links to description), and have two manuscripts in progress.
 
     papers:
-      - title: Childhood Adversity and Behavioral Health Costs for Adolescents in Washington State. 
+      - title: Systematic review of interventions for reducing stigma experienced by children with disabilities and their families in low and middle-income countries: state of the evidence. 
+        authors: Tracey Smythe, <b>Jaimie Adelson</b>, Sarah Pollack
+        conference: Tropical Medicine & International Health, 2020
+        link: https://onlinelibrary.wiley.com/doi/abs/10.1111/tmi.13388
+     
+     - title: Childhood Adversity and Behavioral Health Costs for Adolescents in Washington State. 
         authors: Deleena Patton, Qinghua Liu, Barbara Lucenko, <b>Jaimie Adelson</b>, David Mancuso, Barbara Felver
         conference: DSHS Reports, 2018
         link: https://www.dshs.wa.gov/ffa/rda/research-reports/childhood-adversity-and-behavioral-health-costs-adolescents-washington-state
