@@ -39,7 +39,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a researcher at the Institute for Health Metrics and Evaluation in Seattle, Washington where I estimate the burden of vision loss, dementia, and Parkinson's disease for the Global Burden of Disease Study. 
+      I am a researcher at the Institute for Health Metrics and Evaluation in Seattle, Washington where I estimate the burden of sensory and neurological disorders for the Global Burden of Disease Study. 
       
       I have a multidisciplinary background in public health and biomedical research.  My work has included a Fulbright Fellowship in Indonesia, a non-profit teaching and outreach position in Namibia,
       and positions in the U.S. non-profit and government sectors. My skills include research design, data analysis, grant and report
@@ -81,7 +81,7 @@ experiences:
       details: |
         Topic: Global Burden of Disease study
         
-        Output & Skills: I am responsible for modeling the global burden of vision loss, dementia, and Parkinson's disease. I supervise the modeling of hearing loss, muskuloskeletal disorders, and other neurological disorders.
+        Output & Skills: Modeling estimates of the global burden of sensory and neurological disorders
         
     - role: Research Investigator
       time: 2017 
